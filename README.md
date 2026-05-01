@@ -1,37 +1,51 @@
 <h1 align="center">Hi 👋, I'm Triveni Ji Piyush Mishra</h1>
-<h3 align="center">Full Stack Developer from India | Building IdeaHub 🚀 | Passionate about Web Development</h3>
+<h3 align="center">🚀 Full Stack Developer (MERN) | Exploring AI/ML | Building Real-World Projects</h3>
 
----
-
-### 🚀 About Me
-- 🔭 I’m currently working on **IdeaHub - A full stack social collaboration platform**
-- 🌱 I’m currently learning **Advanced Backend Development and Machine Learning (AI/ML)**
-- 👯 I’m looking to collaborate on **Full Stack Projects (MERN / Node.js apps)**
-- 🤝 I’m looking for help with **Scaling applications & deployment (DevOps, cloud)**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, REST APIs**
-- 📫 Reach me at **trivenijipiyushmishra1@gmail.com**
-- ⚡ Fun fact: **I can debug code faster at 2AM than during the day 😄**
-
----
-
-### 🌐 Portfolio & Projects
-- 🔗 All projects: https://github.com/Trivenix07
-- 🚀 Main Project: https://github.com/Trivenix07/IdeaHub
-
----
-
-### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,css,express,figma,git,html,java,js,mongodb,mysql,nodejs,python,react,redux,tailwind" />
+  <a href="https://github.com/Trivenix07">
+    <img src="https://komarev.com/ghpvc/?username=trivenix07&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
 </p>
+
+---
+
+### 🧠 About Me
+- 🔭 Building **IdeaHub** – a full-stack social collaboration platform  
+- 🌱 Learning **Advanced Backend + AI/ML**  
+- 💡 Interested in **scalable apps & real-world problem solving**  
+- ⚡ Fun fact: *I debug faster at 2AM than daytime* 😄  
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,git,figma,tailwind,redux" />
+</p>
+
+---
+
+### 🚀 Featured Project
+🔗 **IdeaHub**  
+👉 https://github.com/Trivenix07/IdeaHub  
+
+> A full-stack platform for sharing and collaborating on ideas  
+> Built using MERN stack  
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trivenix07&show_icons=true&locale=en" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trivenix07&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trivenix07&show_icons=true&locale=en&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trivenix07&layout=compact" />
 </p>
+
+---
+
+### 🎯 2026 Goals
+- 🚀 Build 5+ real-world projects  
+- 🤖 Learn Machine Learning deeply  
+- 🌐 Deploy full-stack apps  
+- 💼 Get internship / freelance work  
