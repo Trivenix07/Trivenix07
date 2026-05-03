@@ -10,14 +10,16 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Building **IdeaHub** – a full-stack social collaboration platform  
-- 🌱 Learning **Advanced Backend + AI/ML**  
-- 💡 Interested in **scalable apps & real-world problem solving**  
-- ⚡ Fun fact: *I debug faster at 2AM than daytime* 😄  
+
+* 🔭 Building **IdeaHub** – a full-stack social collaboration platform
+* 🌱 Learning **Advanced Backend + AI/ML**
+* 💡 Interested in **scalable apps & real-world problem solving**
+* ⚡ Fun fact: I debug faster at 2AM than daytime 😄
 
 ---
 
 ### 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,git,figma,tailwind,redux" />
 </p>
@@ -25,11 +27,18 @@
 ---
 
 ### 🚀 Featured Project
-🔗 **IdeaHub**  
-👉 https://github.com/Trivenix07/IdeaHub  
 
-> A full-stack platform for sharing and collaborating on ideas  
-> Built using MERN stack  
+🔗 **IdeaHub (Live):** https://ideahub-azure.vercel.app
+🔗 **GitHub Repo:** https://github.com/Trivenix07/IdeaHub
+
+> IdeaHub is a full-stack web application that allows users to share ideas, like posts, and collaborate through requests.
+> It includes authentication, notifications, and a personalized dashboard.
+
+**Tech Stack:**
+Frontend: EJS, Tailwind CSS
+Backend: Node.js, Express.js
+Database: MongoDB (Mongoose)
+Authentication: JWT, Cookies
 
 ---
 
@@ -46,7 +55,20 @@
 ---
 
 ### 🎯 2026 Goals
-- 🚀 Build 5+ real-world projects  
-- 🤖 Learn Machine Learning deeply  
-- 🌐 Deploy full-stack apps  
-- 💼 Get internship / freelance work  
+
+* 🚀 Build 5+ real-world projects
+* 🤖 Learn Machine Learning deeply
+* 🌐 Deploy full-stack apps
+* 💼 Get internship / freelance work
+
+---
+
+### 📫 Connect With Me
+
+* 💻 GitHub: https://github.com/Trivenix07
+* 📧 Email: [trivenijipiyushmishra1@gmail.com](mailto:trivenijipiyushmishra1@gmail.com)
+
+---
+
+
+⭐ *If you like my work, consider giving a star to my repositories!*
